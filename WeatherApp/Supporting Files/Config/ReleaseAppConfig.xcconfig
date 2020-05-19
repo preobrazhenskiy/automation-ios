@@ -1,0 +1,13 @@
+//
+//  ReleaseAppConfig.xcconfig
+//  WeatherApp
+//
+//  Created by Dmitry Pliushchai on 11/27/19.
+//  Copyright © 2019 Andersen. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_ID_OPEN_WEATHER = bff0be0edc96fd06f421d6fbe3500ee2
+APP_ID_TRAVEL_PAYOUTS = aa1214a745e618da41cf5b52cbed40d6
